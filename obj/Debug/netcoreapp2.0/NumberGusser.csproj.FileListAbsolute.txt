@@ -1,0 +1,11 @@
+/Users/krishnanath/Projects/NumberGusser/bin/Debug/netcoreapp2.0/NumberGusser.deps.json
+/Users/krishnanath/Projects/NumberGusser/bin/Debug/netcoreapp2.0/NumberGusser.runtimeconfig.json
+/Users/krishnanath/Projects/NumberGusser/bin/Debug/netcoreapp2.0/NumberGusser.runtimeconfig.dev.json
+/Users/krishnanath/Projects/NumberGusser/bin/Debug/netcoreapp2.0/NumberGusser.dll
+/Users/krishnanath/Projects/NumberGusser/bin/Debug/netcoreapp2.0/NumberGusser.pdb
+/Users/krishnanath/Projects/NumberGusser/obj/Debug/netcoreapp2.0/NumberGusser.csprojResolveAssemblyReference.cache
+/Users/krishnanath/Projects/NumberGusser/obj/Debug/netcoreapp2.0/NumberGusser.csproj.CoreCompileInputs.cache
+/Users/krishnanath/Projects/NumberGusser/obj/Debug/netcoreapp2.0/NumberGusser.AssemblyInfoInputs.cache
+/Users/krishnanath/Projects/NumberGusser/obj/Debug/netcoreapp2.0/NumberGusser.AssemblyInfo.cs
+/Users/krishnanath/Projects/NumberGusser/obj/Debug/netcoreapp2.0/NumberGusser.dll
+/Users/krishnanath/Projects/NumberGusser/obj/Debug/netcoreapp2.0/NumberGusser.pdb
